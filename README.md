@@ -4,14 +4,9 @@
 
 # project reference
 
-- https://roadmap.sh/frontend/projects
-- https://roadmap.sh/projects/single-page-cv
-
-- ## [Frontend Projects](https://roadmap.sh/frontend)
-
-- [x] [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
+- https://roadmap.sh/frontend
 
 ## html
 
 - Beginner
-  - single page cv https://pravn27.github.io/frontend-practice-projects/from-roadmapsh-projects/html/beginner/single-page-cv/
+  - [x] [Single-Page CV](https://roadmap.sh/projects/single-page-cv) demo link - https://pravn27.github.io/frontend-practice-projects/from-roadmapsh-projects/html/beginner/single-page-cv/
