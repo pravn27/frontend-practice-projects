@@ -5,7 +5,7 @@
 # project reference
 
 - https://roadmap.sh/frontend/projects
-- https://github.com/pravn27/frontend-practice-projects
+- https://roadmap.sh/projects/single-page-cv
 
 ## html
 
