@@ -7,6 +7,10 @@
 - https://roadmap.sh/frontend/projects
 - https://roadmap.sh/projects/single-page-cv
 
+- ## [Frontend Projects](https://roadmap.sh/frontend)
+
+- [x] [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
+
 ## html
 
 - Beginner
