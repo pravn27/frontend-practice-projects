@@ -10,3 +10,11 @@ Create a single-page HTML CV to showcase your career history
 - **SEO Meta Tags:** Include essential meta tags for SEO.
 - **Open Graph (OG) Tags:** Add OG tags for better social media sharing.
 - **Favicon:** Add a favicon for your CV page.
+
+---
+
+### github page deployment
+
+- Deployed in github pages, demo link - https://pravn27.github.io/frontend-practice-projects/from-roadmapsh-projects/html/beginner/single-page-cv/
+- Screenshot
+  ![11hhyyji 0tv](https://github.com/user-attachments/assets/9b1b7e3a-65d8-4be1-bb29-3d2d2f28c7d2)
