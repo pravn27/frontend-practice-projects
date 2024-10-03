@@ -25,7 +25,14 @@ nav ul {
 nav ul li {
     display: inline;
     margin-right: 1rem;
+    padding-right: 1rem;
+    border-right: 2px solid black; /* Vertical separator */
 }
+
+nav ul li:last-child {
+    border-right: none; /* Remove separator from the last item */
+}
+
 nav ul li a {
     /* color: white; */
     text-decoration: none;
