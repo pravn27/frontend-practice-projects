@@ -38,6 +38,13 @@ nav ul li a {
     text-decoration: none;
 }
 
+nav ul li a.active {
+    text-decoration: underline;
+    font-size: 20px;
+    padding: 8px;
+    font-weight: 600;
+}
+
 header div.headerLeftSideContent {
     display: flex;
     align-items: center;
