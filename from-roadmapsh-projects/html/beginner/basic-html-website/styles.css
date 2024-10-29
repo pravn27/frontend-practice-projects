@@ -78,9 +78,24 @@ div.introTitle p.description {
 div.asideContents {
     height: 40vh;
     display: flex;
-    border-top: 1px solid;
-    border-bottom: 1px solid;
+    border: 1px solid;
     justify-content: space-between;
+}
+
+div.projects, div.experience, div.education {
+    flex-grow: 1;
+    border-right: 1px solid;
+    padding: 6px;
+}
+
+div.projects > ul.projectList {
+    list-style-type: none;
+    padding: 0;
+}
+
+div.projects > ul.projectList > li {
+    margin-bottom: 10px;
+    border-bottom: 2px solid;
 }
 
 footer {
